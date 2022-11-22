@@ -16,7 +16,7 @@ Or you can configure it in your HOME directory's .yarnrc
 ## Install
 
 ```
-$ npm install -g @mianxiangdahai/nrm
+$ npm install -g nrm
 ```
 
 ## Example
